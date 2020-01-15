@@ -58,8 +58,6 @@ Schedule: https://github.com/SmithsonianWorkshops/carpentries-brown-bag/wiki/Sch
 Join the SI Carpentries Instructor Team
 ---------------------------------------
 
-We are looking for Smithsonian staff and fellows to be trained to join our team of instructors. No prior teaching experience is necessary, but "alumni" of the Carpentries workshops would make great candidates.
+In the Fall we will be looking for Smithsonian staff and fellows to be trained to join our team of instructors. No prior teaching experience is necessary, but "alumni" of the Carpentries workshops would make great candidates. Stay tuned!
 
-You can apply at: https://forms.gle/zghh323SJuq1QdKZ8
 
-(This link also exists as a big blue button on the SI Carpentries website.)
